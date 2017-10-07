@@ -1,0 +1,10 @@
+1. Feynman Writing Prompts:
+  a. for: A for loop is a statement that creates a loop that is executes blocks of code as long as the condition is true. it will only stop when the condition is false. an example of a for loop would be to print the value of variable i, then increment the value of i by one as long as i is less than 10. 
+
+  b. &&, ||, ! : These three symbols are called logical operators. && (think about it as being "and")returns true if the statements on both sides of it are true. If the statement to the left of it is false, it will return false without checking the statement on the right. || (think about it being "or") this will check if either statement is true. if either statement is true it will return true. !(think of it as "not") this basically means the opposite of the statement youre evaluating for example if you had !true it would mean that you wanted false.
+
+  c. Arrays: this is a series of some data that is all the same size and type. For example, you could have an array of numbers, objects, strings etc...
+
+  d. Git: this is a tool that will save you numerous times over your career! Git is basically a version control system that tracks changes in files. It helps you coordintate work with people and best of all if say, you messed up and wished you can rewind some of your changes. You could! Git allows you to revert to a previous save as well as many other features.
+
+  e. GitHub: You can use Github to store your projects and network with other developers. It's a service that uses git to store your files in whats called repositories. 
